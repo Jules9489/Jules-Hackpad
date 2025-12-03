@@ -32,4 +32,4 @@ BOM:
 1x 3D printed case, 
 
 Challenges:
-This was my first time doing anything so complicated. I had never even thought I could attempt something like this, but I am very proud of it.
+This was my first time doing anything so complicated. I had never even thought I could attempt something like this, but I am very happy with it.
